@@ -1,2 +1,2 @@
 <h1>INTRODUCTION TO INFORMATION TECHNOLOGY ASSIGNMENT 1</h1>
-<h3>Personal Information</h3>
+<h2>Personal Information</h2>
