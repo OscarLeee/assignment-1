@@ -1,3 +1,4 @@
+![learning style quiz](https://user-images.githubusercontent.com/81346328/112976670-e2c09980-91a0-11eb-8bab-ee31a63c50e7.JPG)
 <h1>INTRODUCTION TO INFORMATION TECHNOLOGY ASSIGNMENT 1</h1>
 <h2>Personal Information</h2>
 Name: Oscar
