@@ -18,4 +18,18 @@ I was born in Australia, however, my parents are Taiwanese so I grew up speaking
 
 This job interests me because I have an interest in IT as well as banking, so working in a bank with IT skills would be pretty ideal for me. The skills that I would need would be being able to program and write in python and spark SQL as stated in the job description and also perform data analysis. Currently I do not know how to do any of this, so it is something that I will need to work on and learn how to do. Coincidentally, I am learning to code in Python in my ‘Introduction to programming class’ and also learning how to use SQL in ‘Practical database concepts’.
 
-<img src="asnee.jpg" alt="Italian Trulli">
+<h4>Personal Profile</h4>
+In the third test it states that I am more of a tactile person, perhaps meaning that I am a more hands-on person who learns better by touching and doing, for example I remember things better through physical movement, which I think is true personally. For the second test the traits are Openness, conscientiousness, extroversion, agreeableness, and neuroticism. In this test I scored more highly on openness, agreeableness and neuroticism, which suggests that I am a more open-minded person who is interested and open to others’ ideas. In the Myers-Briggs test I scored 88% for prospecting, apparently meaning that I offer a great deal of creativity and productivity.
+
+The fact that I am a very open-minded and agreeable person is good because it will mean that I will be able to work with others well and I will be able to understand what my other group members ideas and thinking. Apparently I am a very creative and productive person, meaning that I will be able to get what is needed to be done and  bring new ideas to the group with my creativeness.
+
+
+The Myer-Briggs test stated that I have an introverted personality which I also think is true, this means that I should look for other team members who are perhaps more outgoing to counteract my introvertedness.
+
+<h4>Project Idea</h4>
+My project idea is a program/application that gives you a visual representation of your physique so that you can look at and know how different items of clothing will look like on you. You will give the program measurements of your body (e.g height, arm length and width, shoulder width, leg length etc) and it will use the measurements to form a representation of your body so that you can see how pieces of clothing fit on you. This will also mean that the measurements of the clothing will need to be taken into account.
+
+My motivation for this project came from my experiences with online shopping. Sometimes when I buy items online, it might look different in real life compared to what it looked like on the website and it might fit weirdly. Also, different stores have different cutting for their clothing, for example a size ‘Large’ might be smaller or bigger than other stores ‘Large’, so by having a program that shows you what you would look like, it eliminates the downside of online shopping which is not being able to see the clothing in person and trying it on.
+
+In order for the program to work properly, users will have to give quite a number of body measurements, because ideally, the more measurements, the more accurate the representation will be. Measurements will be length and size (tape around)
+Example measurements might be:
