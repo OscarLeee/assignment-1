@@ -1,3 +1,4 @@
+![sexy cunt](https://user-images.githubusercontent.com/81346328/112977080-5ebae180-91a1-11eb-954b-5caecc54abea.JPG)
 
 <h1>INTRODUCTION TO INFORMATION TECHNOLOGY ASSIGNMENT 1</h1>
 <h2>Personal Information</h2>
