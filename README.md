@@ -85,3 +85,6 @@ Main features of the program:
 </ul>
 
 This project will require programmers to develop an application and if it is successful, the outcome will be that online shopping will become a better experience for people as there will be less cases where customers are not satisfied with a product they bought because it looked different to what it did online or a piece of clothing fitted differently on them then how they thought it would.
+
+</body>
+</html>
