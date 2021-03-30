@@ -12,3 +12,6 @@ I was born in Australia, however, my parents are Taiwanese so I grew up speaking
   <li>I chose to study at RMIT because I heard that the IT courses at RMIT are one of the better ones compared to other universities (like Deakin, Swinburne, la Trobe, Monash, Melbourne).RMIT is known for teaching content to students that specializes in more industry-based and practical skills which sounded good to me, as that is what employers value. Also, I wanted to go to the city for uni.</li>
   
 </ul>  
+
+<h2>Ideal Job</h2>
+<a href="https://au.indeed.com/viewjob?jk=545f93a8a6a611de&tk=1f215eahb3ede001&from=serp&vjs=3">link text</a>
