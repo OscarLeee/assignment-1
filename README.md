@@ -33,3 +33,20 @@ My motivation for this project came from my experiences with online shopping. So
 
 In order for the program to work properly, users will have to give quite a number of body measurements, because ideally, the more measurements, the more accurate the representation will be. Measurements will be length and size (tape around)
 Example measurements might be:
+
+<ul>
+  <li>Arm length and size (shoulder to elbow)</li>
+  <li>Forearm length and size (elbow to wrist)</li>
+  <li>Neck length and size</li>
+  <li>Chest size</li>
+  <li>Shoulder size</li>
+  <li>Torso length (neck to waist)</li>
+  <li>Upper, middle, lower stomach size</li>
+  <li>Waist size</li>
+  <li>Upper, middle, lower stomach size</li>
+  <li>Upper leg length and size (waist to knee)</li>
+  <li>Lower leg length and size (knee to ankle)</li>
+</ul>
+
+Additionally, the program will also take into account for other features because people are built differently and have different structures. 
+Some of these features might be:
