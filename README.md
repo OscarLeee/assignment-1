@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+<head>
 ![sexy cunt](https://user-images.githubusercontent.com/81346328/112977080-5ebae180-91a1-11eb-954b-5caecc54abea.JPG)
 
 <h1>INTRODUCTION TO INFORMATION TECHNOLOGY ASSIGNMENT 1</h1>
@@ -48,6 +51,9 @@ Example measurements might be:
   <li>Neck length and size</li>
   <li>Chest size</li>
   <li>Shoulder size</li>
+  
+  </body>
+</html>
   <li>Torso length (neck to waist)</li>
   <li>Upper, middle, lower stomach size</li>
   <li>Waist size</li>
