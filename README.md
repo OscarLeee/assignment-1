@@ -22,7 +22,9 @@ This job interests me because I have an interest in IT as well as banking, so wo
 
 <h4>Personal Profile</h4>
 ![learning style quiz](https://user-images.githubusercontent.com/81346328/112976670-e2c09980-91a0-11eb-8bab-ee31a63c50e7.JPG)
+
 ![16personalities](https://user-images.githubusercontent.com/81346328/112976746-f966f080-91a0-11eb-8d13-352e4d436d84.JPG)
+
 ![big 5 personality test](https://user-images.githubusercontent.com/81346328/112976759-fc61e100-91a0-11eb-8a5a-e603dd401884.JPG)
 In the third test it states that I am more of a tactile person, perhaps meaning that I am a more hands-on person who learns better by touching and doing, for example I remember things better through physical movement, which I think is true personally. For the second test the traits are Openness, conscientiousness, extroversion, agreeableness, and neuroticism. In this test I scored more highly on openness, agreeableness and neuroticism, which suggests that I am a more open-minded person who is interested and open to others’ ideas. In the Myers-Briggs test I scored 88% for prospecting, apparently meaning that I offer a great deal of creativity and productivity.
 
