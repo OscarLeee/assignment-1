@@ -18,4 +18,4 @@ I was born in Australia, however, my parents are Taiwanese so I grew up speaking
 
 This job interests me because I have an interest in IT as well as banking, so working in a bank with IT skills would be pretty ideal for me. The skills that I would need would be being able to program and write in python and spark SQL as stated in the job description and also perform data analysis. Currently I do not know how to do any of this, so it is something that I will need to work on and learn how to do. Coincidentally, I am learning to code in Python in my ‘Introduction to programming class’ and also learning how to use SQL in ‘Practical database concepts’.
 
-<img src="learning style quiz.jpg" alt="Trulli" width="500" height="333">
+<img src="learning_style_quiz.jpg" alt="Trulli" width="500" height="333">
