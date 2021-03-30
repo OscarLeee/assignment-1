@@ -8,3 +8,8 @@
 <h2>Interest in IT</h2>
 <h4>My interest in IT started when I was a kid  in primary school, I was exposed to videogames on electronics like the DS, playstation 2, ipad, PS Vita and so I have always been more of a nerdy person ever since I was a kid. However, I feel like my interest in IT really started when my brother introduced me to League of Legends.I remember playing it for the first time,it was also the first time that I used an actual computer.
 I chose to study at RMIT because I heard that the IT courses at RMIT are one of the better ones compared to other universities (like Deakin, Swinburne, la Trobe, Monash, Melbourne).RMIT is known for teaching content to students that specializes in more industry-based and practical skills which sounded good to me, as that is what employers value. Also, I wanted to go to the city for uni.</h4>
+<ul>
+  <li>My interest in IT started when I was a kid  in primary school, I was exposed to videogames on electronics like the DS, playstation 2, ipad, PS Vita and so I have always been more of a nerdy person ever since I was a kid. However, I feel like my interest in IT really started when my brother introduced me to League of Legends.I remember playing it for the first time,it was also the first time that I used an actual computer.</li>
+  <li>I chose to study at RMIT because I heard that the IT courses at RMIT are one of the better ones compared to other universities (like Deakin, Swinburne, la Trobe, Monash, Melbourne).RMIT is known for teaching content to students that specializes in more industry-based and practical skills which sounded good to me, as that is what employers value. Also, I wanted to go to the city for uni.</li>
+  
+</ul>  
