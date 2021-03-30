@@ -50,3 +50,23 @@ Example measurements might be:
 
 Additionally, the program will also take into account for other features because people are built differently and have different structures. 
 Some of these features might be:
+
+<ul>
+  <li>The amount of slouch in your spine</li>
+  <li>The position of your arms in relation to your body</li>
+  <li>The direction that your legs and feet point</li>
+  <li>The position of your head in relation to your body</li>
+</ul>
+A slidable bar will represent the degree of these features.
+
+Main features of the program:
+
+<ul>
+  <li>The program will give a 3D view of your body, meaning that you will be able to see yourself from different perspectives, ideally like a click and drag feature that rotates your model so that users can see what they will look like from different perspectives.</li>
+  <li>The program will allow for the user to move body parts of the model to see what it would look like in different positions, instead of just having a model that just stands straight in one position.</li>
+  <li>The program will allow the user to make the model do things so that the users can see what it will look like when they are doing those things, for example walking, sitting down.</li>
+  <li>The program will allow for users to have several models so that they can save different outfits.</li>
+  <li>The program will calculate the total cost of a certain outfit
+.</li>
+</ul>
+
